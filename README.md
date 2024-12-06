@@ -22,8 +22,18 @@ npm install
 npm run dev
 ```
 
-### Compile and Minify for Production
+## BACKEND SETUP
 
 ```sh
-npm run build
+cd backend
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm install
+```
+
+```sh
+node app.js
 ```
